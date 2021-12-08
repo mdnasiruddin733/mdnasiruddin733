@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+[![Social banner for jh3y](https://github.com/mdnasiruddin733/mdnasiruddin733/blob/main/github-profile-bannaar.jpg?raw=true)](https://jhey.dev)
 <h1 align="center">Hi there, I am Md Nasir Uddin</h1>
 <h3 align="center">A code lover and pasionate developer</h3>
 
